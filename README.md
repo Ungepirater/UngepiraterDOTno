@@ -1,26 +1,25 @@
-Ungepirater.no
-=============
+# Ungepirater-dotno
 
-![Logo](http://ungepirater.no/img/Logo_ungPIR_fullFarge.svg)
+This README outlines the details of collaborating on this Ember application.
 
-Website for the Norwegian Young Pirates.
+## Installation
 
-###What can it do?
-* Serve as the parties informative channel
-* Center of the organizations services
-* News
+* `git clone` this repository
+* `npm install`
+* `bower install`
 
-###Setup
+## Running
 
-###Configuration options
+* `ember server`
+* Visit your app at http://localhost:4200.
 
-###Theme
+## Running Tests
 
+* `ember test`
+* `ember test --server`
 
-###Usage
+## Building
 
+* `ember build`
 
-###Debugging
-
-
-###Screenshots
+For more information on using ember-cli, visit [http://iamstef.net/ember-cli/](http://iamstef.net/ember-cli/).
