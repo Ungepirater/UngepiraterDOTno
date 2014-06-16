@@ -14,7 +14,7 @@ Website for the Norwegian Young Pirates.
 
 ###Configuration options
 
-####Theme
+###Theme
 
 
 ###Usage
