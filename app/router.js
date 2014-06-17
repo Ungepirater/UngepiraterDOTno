@@ -1,7 +1,7 @@
 import Ember from 'ember';
 
 var Router = Ember.Router.extend({
-  location: UngepiraterDOTnoENV.locationType
+	location: UngepiraterDOTnoENV.locationType
 });
 
 Router.map(function() {
