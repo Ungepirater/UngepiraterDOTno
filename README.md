@@ -4,7 +4,7 @@ This README outlines the details of collaborating on this Ember application.
 
 ## Installation
 
-* `git clone` this repository
+* `git clone https://github.com/Ungepirater/UngepiraterDOTno.git`
 * `npm install`
 * `bower install`
 
